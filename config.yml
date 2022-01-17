@@ -1,4 +1,4 @@
-baseURL: "http://davidsoftware.com/"
+baseURL: "https://davidsoftware.com/"
 title: David's software
 paginate: 5
 theme: PaperMod
