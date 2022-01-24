@@ -11,6 +11,13 @@ searchHidden: true
 ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "labas" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+---
 
 These books have helped me in one or other way in my career.
 
