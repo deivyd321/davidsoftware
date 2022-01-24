@@ -123,6 +123,10 @@ menu:
       name: About
       url: /about/
       weight: 30
+    - identifier: books
+      name: Books
+      url: /software-engineering-books/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
