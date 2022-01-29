@@ -19,12 +19,12 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-These books have helped me in one or other way in my career.
+These are the books I have read and learned a lot from them.
 
-Clean Code |  Clean Craftmanship        | Clean Agile |
+Clean Code |  Clean Coder        | Clean Agile |
 :-------------------------:|:------------------------:|:-----------:
-![](/books/cleanCode.jpg)  |  ![](/books/cleanCraftmanship.jpg) | ![](/books/cleanAgile.jpg)
+![](/books/cleanCode.jpg)  |  ![](/books/cleanCoder.jpg) | ![](/books/cleanAgile.jpg)
 
-Entity Framework Core in Action |  Clean Coder        | API Security in Action |
+Entity Framework Core in Action |  API Security in Action | The Phoenix Project       |
 :-------------------------:|:------------------------:|:-----------:
-![](/books/efCoreInAction.jpg)  |  ![](/books/cleanCoder.jpg) | ![](/books/api-security-in-action.jpg)
+![](/books/efCoreInAction.jpg) | ![](/books/api-security-in-action.jpg) |  ![](/books/phoenixProject.jpg) |
