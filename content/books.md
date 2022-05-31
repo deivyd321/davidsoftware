@@ -28,3 +28,7 @@ Clean Code |  Clean Coder        | Clean Agile |
 Entity Framework Core in Action |  API Security in Action | The Phoenix Project       |
 :-------------------------:|:------------------------:|:-----------:
 ![](/books/efCoreInAction.jpg) | ![](/books/api-security-in-action.jpg) |  ![](/books/phoenixProject.jpg) |
+
+Clean Architecture |
+:-------------------------:
+![](/books/cleanArchitecture.jpg) |
