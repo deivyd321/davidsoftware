@@ -32,5 +32,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-New property prices tracking website is live.
+New real estate property prices tracking website is live.
 Check https://housevilis.lt/
