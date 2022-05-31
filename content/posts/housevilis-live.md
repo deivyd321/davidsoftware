@@ -1,17 +1,17 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "HouseVilis is live"
+date: 2022-05-31T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+tags: ["housevilis"]
+author: "Deivydas"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "New website"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -32,4 +32,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Laba diena, ka tu?
+New property prices tracking website is live.
+Check https://housevilis.lt/
